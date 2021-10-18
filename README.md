@@ -50,5 +50,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![Kapture 2021-10-17 at 23 47 25](https://user-images.githubusercontent.com/60624760/137666688-a997af61-87bb-456f-8e3b-617c0da9f8de.gif)
 
