@@ -15,5 +15,6 @@ target 'Instagram' do
 
   # Pods for YOUR_APP
   pod 'Parse'
-
+  pod "MessageInputBar"
+ 
 end
